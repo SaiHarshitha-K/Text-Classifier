@@ -3,7 +3,7 @@
 This repository contains jupyter notebook that includes Text classifier models.
 
 # Text Classification using Naive Bayes Classifier
-This repository contains jupyter notebook that includes facial expression classifier models for Kaggle's facial emotion expressions dataset
+This repository contains jupyter notebook that includes text classifier models for Kaggle's rotten tomatoes reviews dataset
 
 To run the Jupyter Notebook, follow the below steps:
 
