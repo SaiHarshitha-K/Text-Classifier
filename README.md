@@ -2,7 +2,7 @@
 
 This repository contains jupyter notebook that includes Text classifier models.
 
-# Facial Expression Classification using Convolutional Neural Networks
+# Text Classification using Naive Bayes Classifier
 This repository contains jupyter notebook that includes facial expression classifier models for Kaggle's facial emotion expressions dataset
 
 To run the Jupyter Notebook, follow the below steps:
